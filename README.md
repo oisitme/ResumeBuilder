@@ -46,5 +46,8 @@ card/
 
 ## Screenshots
 
-![outputSS](.png)
+![outputSS](r1.png)
+![outputSS](r2.png)
+![outputSS](r3.png)
+
 
